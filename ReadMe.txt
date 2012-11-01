@@ -12,5 +12,5 @@ Features:
 3.With advanced Response Mapping technology, you can add check points by just clicking.
 4.Provides easy-to-read reports and logs in HTML/XML format.
 5.Provides a command line interface and XML based outputs for integration into existing continuous integration systems
-6.Cross platform. Supports Windows XP/Windows 7/Linux
+6.Cross platform. Supports Windows XP/Windows 7/Linux.(Only provide MS Windows package by now)
 7.Free. Yes, it's free!
