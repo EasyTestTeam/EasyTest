@@ -84,6 +84,9 @@ EasyTest leads your test dream come true!
 Easy your work, Easy your life!
   -lize CHEN
 
+Who was the true assistant at automation test? it is  EasyTest! A good tool help you take the dream become reality! 
+  -Jianguo ZHU
+
 Very powerful and also flexible tool!
 It’s based on command line message interaction, and covers almost various kinds of communication protocol.
 Also very user friendly, makes your automation test easy-to-go!
