@@ -18,6 +18,9 @@ Features:
 Download:
 https://github.com/EasyTest2012/EasyTest/downloads
 
+Technical support:
+easytest-supports@alcatel-lucent.com
+
 
 ---------------------------------------------------------------------------------
 To internet new users:
