@@ -21,6 +21,12 @@ https://github.com/EasyTest2012/EasyTest/downloads
 Technical support:
 easytest-supports@alcatel-lucent.com
 
+New Features of 2.6.0
+ EasyTest officially supports MS Windows7 OS. 
+ EasyTest can “set workspace” without re-start. 
+ Add “ifNotExist”, “pass” and “fail” actions in EasyTest language.
+ Show EasyTest service log while run service from EasyTest main window, NE configuration center. 
+ Sort Var/Arg by clicking column header.
 
 ---------------------------------------------------------------------------------
 To internet new users:
