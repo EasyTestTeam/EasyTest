@@ -15,9 +15,6 @@ Features:
 6.Cross platform. Supports Windows XP/Windows 7/Linux.(Only provide MS Windows package by now)
 7.Free. Yes, it's free!
 
-Download:
-https://github.com/EasyTest2012/EasyTest/downloads
-
 Technical support:
 easytest-supports@alcatel-lucent.com
 
