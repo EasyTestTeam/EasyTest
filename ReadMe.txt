@@ -4,7 +4,7 @@ EasyTest's Network Element (NE) based services are especially suitable for opera
 As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. 
 It is a freeware under "easytest license - commercial".
 
--Download from:
+-Download EasyTest-2.7.0Free.exe:
 
 https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download
 
