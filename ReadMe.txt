@@ -1,8 +1,12 @@
-EasyTest is a general purpose automation test tool with cross platform capability. 
+﻿EasyTest is a general purpose automation test tool with cross platform capability. 
 It provides an easy approach for users to quickly develop, automate and maintain automation scripts. 
 EasyTest's Network Element (NE) based services are especially suitable for operators, service providers and network equipment manufacturers to test their carrier grade systems.
 As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. 
 It is a freeware under "easytest license - commercial".
+
+-Download from:
+
+https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download
 
 
 Features:
