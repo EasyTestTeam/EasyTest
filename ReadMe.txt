@@ -1,16 +1,17 @@
-﻿EasyTest is a general purpose automation test tool with cross platform capability. 
+﻿EasyTest is a general purpose automation test tool with cross platform capability. It was developed at Alcatel-Lucent and made freeware on Nov. 2, 2012.
+
 It provides an easy approach for users to quickly develop, automate and maintain automation scripts. 
-EasyTest's Network Element (NE) based services are especially suitable for operators, service providers and network equipment manufacturers to test their carrier grade systems.
-As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. 
-It is a freeware under "easytest license - commercial".
 
--Download EasyTest-2.7.0Free.exe:
+EasyTest's Network Element (NE) based services are especially suitable for operators, service providers and network equipment manufacturers to test their carrier grade systems. 
 
-https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download
+As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. It is a freeware under license "easytest license“
 
+- You can download EasyTest at:
+
+    https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download
 
 Features:
-
+==========
 1.Supports test most Network Elements as long as they has Command Line Interface such as Windows command shell, telnet, ssh, sftp, ftp, http, snmp, tcp socket.
 2.Easy to start. With Record and Replay feature, you don't even need to write an single line of script to automate your test.
 3.With advanced Response Mapping technology, you can add check points by just clicking.
@@ -20,7 +21,7 @@ Features:
 7.Free. Yes, it's free!
 
 Technical support:
-easytest-supports@alcatel-lucent.com
+  easytest-supports@alcatel-lucent.com
 
 New Features of 2.6.0
  EasyTest officially supports MS Windows7 OS. 
