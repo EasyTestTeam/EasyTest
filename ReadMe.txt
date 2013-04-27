@@ -1,4 +1,4 @@
-﻿EasyTest is a general purpose automation test tool with cross platform capability. It was developed at Alcatel-Lucent and made freeware on Nov. 2, 2012.
+﻿EasyTest is a general purpose automation test tool with cross platform capability. It was developed at Alcatel-Lucent and made free on Nov. 2, 2012.
 
 It provides an easy approach for users to quickly develop, automate and maintain automation scripts. 
 
