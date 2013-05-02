@@ -70,7 +70,7 @@ Help forward this message to more people if you want give thanks to, or listen t
 
 I am always proud of the EasyTest & the whole team.
 
--*Kun Duan*
+-*Kun DUAN*
 
 With the new EasyTest, We will make automation even better!
 
