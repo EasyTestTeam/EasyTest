@@ -32,7 +32,7 @@ Having trouble with EasyTest? You can
 1. Contact easytest-supports@alcatel-lucent.com and we’ll help you sort it out.
 
 2. Post a question/bug report/feature request at [here](https://github.com/EasyTest2012/EasyTest/issues)
-  
+
 # What People Said About EasyTest #
 
 To internet new users:
@@ -67,7 +67,6 @@ Help forward this message to more people if you want give thanks to, or listen t
 
 -*EasyTest Team(By Bingchen)*
 
-
 I am always proud of the EasyTest & the whole team.
 
 -*Kun DUAN*
@@ -82,16 +81,17 @@ With EasyTest, free your automation spirit!
 
 3+ years passed! It is just like yesterday we fight together to deliver E.T. We spent a lot, learned a lot; and got paid more when we witness users and D/L times increasing.It is my great honor to be one of this team.
 “Here comes EASY.”
-  
+
 -*Jason Sheng*
 
 Since the day I got to know EasyTest project 3 years ago, I’m impressed by the genius in the team and all the amazing work you’ve done! The EasyTest has surely became the vital automation tool that many testers can’t live without any more in their everyday work. And I have a belief that it would also be popular sooner or later as a freeware in the industry.
+
 -*Gary HE*
 
 3 years, EasyTest achieves great success! Congratulations!
 “EasyTest, easy your work!"
--*Luke Deng*
 
+-*Luke Deng*
 
 Hi, internet, this is “Hello Kitty”, a test kitty for you, for fun, for easy test.
 
@@ -131,5 +131,3 @@ It’s based on command line message interaction, and covers almost various kind
 Also very user friendly, makes your automation test easy-to-go!
 
 -*Suyun Huang*
-
-
