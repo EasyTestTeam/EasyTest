@@ -65,7 +65,7 @@ Send your wishes to ET, to new users, that will be in free version’s web page
 
 Help forward this message to more people if you want give thanks to, or listen to their hearts…
 
--EasyTest Team(By Bingchen)
+-*EasyTest Team(By Bingchen)*
 
 I am always proud of the EasyTest & the whole team.
 
