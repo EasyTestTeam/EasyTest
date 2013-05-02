@@ -29,8 +29,7 @@ Yet to come ...
 # Support #
 Having trouble with EasyTest? You can
 
-1. Contact easytest-supports@alcatel-lucent.com and we’ll help you sort it out.
-
+1. Contact easytest-supports@alcatel-lucent.com or
 2. Post a question/bug report/feature request at [here](https://github.com/EasyTest2012/EasyTest/issues)
 
 # What People Said About EasyTest #
