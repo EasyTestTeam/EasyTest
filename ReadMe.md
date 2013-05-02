@@ -26,8 +26,12 @@ Yet to come ...
 6. Cross platform. Supports Windows XP/Windows 7/Linux.(Only provide MS Windows package by now)
 7. Free. Yes, it's free!
 
-# Support or Contact #
-Having trouble with EasyTest? Contact easytest-supports@alcatel-lucent.com and we’ll help you sort it out.
+# Support #
+Having trouble with EasyTest? You can
+
+1. Contact easytest-supports@alcatel-lucent.com and we’ll help you sort it out.
+
+2. Post a question/bug report/feature request at [here](https://github.com/EasyTest2012/EasyTest/issues)
   
 # What People Said About EasyTest #
 
