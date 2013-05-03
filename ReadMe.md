@@ -68,65 +68,65 @@ Help forward this message to more people if you want give thanks to, or listen t
 
 I am always proud of the EasyTest & the whole team.
 
--_Kun DUAN_
+\- _Kun DUAN_
 
 With the new EasyTest, We will make automation even better!
 
--_Zhu Zhong_
+\- _Zhu Zhong_
 
 With EasyTest, free your automation spirit!
 
--_Cyril DEUBEL_
+\- _Cyril DEUBEL_
 
 3+ years passed! It is just like yesterday we fight together to deliver E.T. We spent a lot, learned a lot; and got paid more when we witness users and D/L times increasing.It is my great honor to be one of this team.
 “Here comes EASY.”
 
--_Jason Sheng_
+\- _Jason Sheng_
 
 Since the day I got to know EasyTest project 3 years ago, I’m impressed by the genius in the team and all the amazing work you’ve done! The EasyTest has surely became the vital automation tool that many testers can’t live without any more in their everyday work. And I have a belief that it would also be popular sooner or later as a freeware in the industry.
 
--_Gary HE_
+\- _Gary HE_
 
 3 years, EasyTest achieves great success! Congratulations!
 “EasyTest, easy your work!"
 
--_Luke Deng_
+\- _Luke Deng_
 
 Hi, internet, this is “Hello Kitty”, a test kitty for you, for fun, for easy test.
 
--_Bingchen Ma_
+\- _Bingchen Ma_
 
 People are looking for a fast, accurate, and simple test tools, EasyTest make our dreams come true.
 Les gens essaient de trouver un outil de test rapide, précis, et simple, EasyTest en fait réalité?!
 
--_Zhouyue Wei_
+\- _Zhouyue Wei_
 
 Easy test, Happy life.
 
--_Qiang Guo_
+\- _Qiang Guo_
 
 EasyTest will make your test easy.
 
--_Yang LIU_
+\- _Yang LIU_
 
 Welcome to use EasyTest, hope EasyTest can improve the efficiency of your work.
 
--_Wen Feng_
+\- _Wen Feng_
 
 EasyTest leads your test dream come true!
 
--_Baochen Guo_
+\- _Baochen Guo_
 
 Easy your work, Easy your life!
 
--_lize Chen_
+\- _lize Chen_
 
 Who was the true assistant at automation test? It is  EasyTest! A good tool help you take the dream become reality! 
 
--_Jianguo Zhu_
+\- _Jianguo Zhu_
 
 Very powerful and also flexible tool!
 It’s based on command line message interaction, and covers almost various kinds of communication protocol.
 Also very user friendly, makes your automation test easy-to-go!
 
--_Suyun Huang_
+\- _Suyun Huang_
