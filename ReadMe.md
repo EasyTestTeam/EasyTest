@@ -7,6 +7,15 @@ EasyTest's Network Element (NE) based services are especially suitable for opera
 
 As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. It is a freeware under license "easytest license"
 
+# Features #
+1. Support to test most Network Elements as long as they has Command Line Interface such as Windows **command shell**, **telnet**, **ssh**, **sftp**, **ftp**, **http**, **snmp**, **tcp socket**.
+2. Easy to start. With **Record and Replay** feature, you don't even need to write an single line of script to automate your test.
+3. With advanced **Response Mapping technology**, you can add check points by just clicking.
+4. Provides easy-to-read **reports** and **logs** in HTML/XML format.
+5. Provides a command line interface and XML based outputs for integration into existing **Continuous Integration** systems
+6. **Cross platform**. Supports Windows XP/Windows 7/Linux.(Only provide MS Windows package by now)
+7. **Free**. Yes, it's free!
+
 # Download #
 
 You can download EasyTest at [here](https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download)
@@ -17,21 +26,11 @@ You can find the introduction slides at [here](https://sourceforge.net/projects/
 # Tutorial #
 Yet to come ...
 
-# Features #
-1. Supports test most Network Elements as long as they has Command Line Interface such as Windows command shell, telnet, ssh, sftp, ftp, http, snmp, tcp socket.
-2. Easy to start. With Record and Replay feature, you don't even need to write an single line of script to automate your test.
-3. With advanced Response Mapping technology, you can add check points by just clicking.
-4. Provides easy-to-read reports and logs in HTML/XML format.
-5. Provides a command line interface and XML based outputs for integration into existing continuous integration systems
-6. Cross platform. Supports Windows XP/Windows 7/Linux.(Only provide MS Windows package by now)
-7. Free. Yes, it's free!
-
 # Support #
 Having trouble with EasyTest? You can
 
-1. Contact easytest-supports@alcatel-lucent.com and we’ll help you sort it out.
-
-2. Post a question/bug report/feature request at [here](https://github.com/EasyTest2012/EasyTest/issues)
+1. Contact easytest-supports@alcatel-lucent.com or
+2. Post your question/bug report/feature request at [here](https://github.com/EasyTest2012/EasyTest/issues)
 
 # What People Said About EasyTest #
 
@@ -65,7 +64,7 @@ Send your wishes to ET, to new users, that will be in free version’s web page
 
 Help forward this message to more people if you want give thanks to, or listen to their hearts…
 
--_EasyTest Team(By Bingchen)_
+\- _EasyTest Team(By Bingchen)_
 
 I am always proud of the EasyTest & the whole team.
 
