@@ -21,7 +21,7 @@ As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, 
 You can download EasyTest at [here](https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download)
 
 # Introduction #
-You can find the introduction slides at [here](https://sourceforge.net/projects/easytest/files/EasyTest_Introduction_2013w17.ppt/download)
+You can find the introduction slides at [here](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction.ppt/download)
 
 # Tutorial #
 Yet to come ...
