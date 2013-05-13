@@ -8,7 +8,7 @@ EasyTest's Network Element (NE) based services are especially suitable for opera
 As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. It is a freeware under license "easytest license"
 
 # Features #
-1. Support to test most Network Elements as long as they has Command Line Interface such as Windows **command shell**, **telnet**, **ssh**, **sftp**, **ftp**, **http**, **snmp**, **tcp socket**.
+1. Support to test most Network Elements as long as they have Command Line Interface such as Windows **command shell**, **telnet**, **ssh**, **sftp**, **ftp**, **http**, **snmp**, **tcp socket**.
 2. Easy to start. With **Record and Replay** feature, you don't even need to write an single line of script to automate your test.
 3. With advanced **Response Mapping technology**, you can add check points by just clicking.
 4. Provides easy-to-read **reports** and **logs** in HTML/XML format.
@@ -18,13 +18,15 @@ As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, 
 
 # Download #
 
-You can download EasyTest at [here](https://sourceforge.net/projects/easytest/files/EasyTest-2.7.0Free.exe/download)
+You can download EasyTest at [here](http://sourceforge.net/projects/easytest/files/EasyTest-2.7.1Free.exe/download)
 
 # Introduction #
-You can find the introduction slides at [here](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction.pdf/download), or [here](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction_ChineseVersion.pdf/download)(中文版)
+- [EasyTest Introduction](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction.pdf/download)
+- [EasyTest简介](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction_ChineseVersion.pdf/download)
 
 # Tutorial #
-Yet to come ...
+- EasyTest Quick Start Guide (yet to come...)
+- [EasyTest快速入门指南](http://sourceforge.net/projects/easytest/files/EasyTest_Quick_Start_Guide_ChineseVersion.zip/download)
 
 # Support #
 Having trouble with EasyTest? You can
