@@ -8,7 +8,7 @@ EasyTest’s Network Element based service concept is especially suitable for op
 As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP.
 
 # Features #
-1. Allow you to test applications, devices or systems accessed through Command Line Interfaces (**Telnet**, **SSH**, **SFtp**, **FTP**, **TCP socket**, etc), **Command Shell**, **HTTP**, **SNMP** and **XML-RPC**.
+1. Allow you to test applications, devices or systems accessed through Command Line Interfaces ( **Telnet**, **SSH**, **SFtp**, **FTP**, **TCP socket**, etc), **Command Shell**, **HTTP**, **SNMP** and **XML-RPC**.
 2. Easy to use. With **Record and Replay** feature, you don't even need to write an single line of script to automate your test.
 3. With advanced **Response Mapping technology**, you can add check points by just clicking.
 4. Provides easy-to-read **reports** and **logs** in HTML/XML format.
