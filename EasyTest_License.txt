@@ -1,0 +1,192 @@
+                     Non-Exclusive Limited-Use Software License
+                 __________________________________________________
+
+
+     NOTICE - READ ALL THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT PRIOR 
+	 TO DOWNLOADING, INSTALLING AND/OR USING THE SOFTWARE. DOWNLOADING, INSTALLING 
+	 AND/OR USING THE SOFTWARE ACCOMPANYING THIS LICENSE INDICATE YOUR ACCEPTANCE 
+	 OF THESE TERMS AND CONDITIONS.
+
+1. GRANT OF RIGHT: 
+   This software program provided in executable binary format (¡°Code¡±) and any related 
+   documentation("Documentation") are licensed, not sold, to you. Alcatel-Lucent USA Inc. 
+   (¡°Alcatel-Lucent¡±), a Delaware Corporation, having offices at 600 Mountain Ave., 
+   Murray Hill, NJ, 07974, grants you a personal, non-exclusive and non-transferable 
+   right to use the Code and Documentation, subject to the terms and restrictions of 
+   this Agreement. The Code and Documentation (collectively "Licensed Software") may 
+   be used by you, or an organization of which you are a member or employee, for either 
+   ¡°commercial¡± or ¡°non-commercial use¡±, but may not be further distributed, transferred,
+   licensed or sold.  
+
+   You may make one copy of the Licensed Software for archival purposes, such as during 
+   the course of a routine backup procedure.  You may make copies of the Documentation 
+   as required for your use of the Licensed Software.  Any permitted copies of the 
+   Licensed Software shall include all copyright notices or other legends appearing 
+   on the original Licensed Software. 
+
+2. OWNERSHIP: 
+   The Code and Documentation are and will remain the sole property of Alcatel-Lucent or 
+   its third party suppliers. The Code and Documentation are copyrighted works and 
+   protected by copyright law and/or contains proprietary information protected at law. 
+   Alcatel-Lucent may at any time assign or transfer all or part of its interests in any 
+   rights to the Licensed Software.
+
+3. LIMITATIONS ON USE: 
+   EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, YOU AGREE NOT TO USE, COPY, MODIFY OR 
+   TRANSFER THE Licensed Software OR ANY COPY, IN WHOLE OR IN PART. You may not 
+   reverse-engineer,de-compile, or disassemble the Licensed Software unless and only 
+   to the extent that such reverse engineering is explicitly authorized by law 
+   notwithstanding this license restriction. You agree to use your best efforts to protect
+   the contents of the Licensed Software and prevent unauthorized disclosure or use. 
+   You agree not to sell, sublicense,assign, delegate, rent, lease or otherwise transfer 
+   this license or any the related rights or obligations for any reason. Alcatel-Lucent 
+   reserves all rights not expressly granted to you. NO OTHER LICENSES ARE GRANTED OR 
+   IMPLIED.
+
+   You agree not to publish or otherwise transfer or distribute copies of the Licensed 
+   Software to others including individuals internal or external to your own organization.
+   Except for reproduction of the Alcatel-Lucent copyright notice as required by Section 2,
+   you agree not to use Alcatel-Lucent's name or refer to Alcatel-Lucent directly or 
+   indirectly in any way whatsoever without the prior written approval of Alcatel-Lucent. 
+   You agree not to release the results of any evaluation of the Licensed Software to any 
+   third party without the prior written approval of Alcatel-Lucent.
+
+4. PATENTS: 
+   The grant to you specified in Section 1 herein from Alcatel- Lucent includes a non
+   -exclusive, non-transferable, personal license under patents which (i) Alcatel-Lucent 
+   has a right to license and to the extent it has that right, as of the effective date 
+   of this Agreement and (ii) but for this license are unavoidably infringed by the 
+   execution of the inherent functionality of the Licensed Software in the form furnished.
+   The license is limited to use in the field of automated integration testing of 
+   communications systems. Nothing contained herein shall be construed as conferring by 
+   implication, estoppel or otherwise any license or right under any existing or later 
+   issued patent claim which is directed to a combination of the functionality of the 
+   Licensed Software with the functionality of any other software programs, or a 
+   combination of hardware systems other than the combination of the Licensed Software 
+   and the hardware or firmware into which the Licensed Software is loaded.
+
+5. TERMINATION: 
+   This license is effective until terminated. You may terminate this license at any time 
+   by destroying the Licensed Software and any permitted archival copies. This license 
+   automatically terminates if you fail to comply with its terms and conditions. Upon 
+   termination in any manner, you agree to destroy all copies of the Licensed Software in 
+   your possession. Your obligations under Sections 3 and 7 herein shall survive and 
+   continue after any termination of this Agreement.
+
+6. DISCLAIMER OF WARRANTY/LIMITATION OF REMEDIES: 
+   Alcatel-Lucent has no obligation to support the Licensed Software.
+
+   TO THE EXTENT PERMITTED UNDER APPLICABLE LAW, ALCATEL-LUCENT IS LICENSING THE LICENSED
+   SOFTWARE "AS IS", WITH NO EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING, BUT NOT
+   LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR 
+   PURPOSE OR WARRANTIES AGAINST INFRINGEMENT OF ANY PROPRIETARY RIGHTS OF A THIRD PARTY. 
+   You are solely responsible for determining the appropriateness of using and distributing
+   the Licensed Software and assume all risks associated with exercise of rights under 
+   this License Agreement, including but not limited to the risks and costs of program 
+   errors, compliance with applicable laws, damage to or loss of data, programs or equipment, 
+   and unavailability or interruption of operations.  ALCATEL-LUCENT WILL NOT BE LIABLE 
+   FOR ANY CONSEQUENTIAL, INCIDENTAL, OR SPECIAL DAMAGES, OR ANY OTHER RELIEF, OR FOR ANY 
+   CLAIM BY ANY THIRD PARTY, ARISING FROM YOUR USE OF THE LICENSED SOFTWARE. Some States 
+   and other jurisdictions do not allow for the exclusion or limitation of implied 
+   warranties so the above exclusions or limitations may not apply to you. This warranty 
+   gives you specific legal rights and you may also have other rights which vary from 
+   State to State.
+
+7. THIRD PARTY SOFTWARE: 
+   The Licensed Program may contain free and open source software (FOSS) or other software
+   obtained by Alcatel-Lucent from third party sources. With respect to FOSS, no license 
+   fee has been paid by Alcatel-Lucent for the inclusion of any such FOSS, and no license 
+   fee is charged to you for its use. You agree to be bound by the provisions of Annex A 
+   with respect to such FOSS.  YOU FURTHER ACKNOWLEDGE AND AGREE THAT THE THIRD PARTY FROM
+   WHICH FOSS WAS OBTAINED PROVIDES NO WARRANTIES AND SHALL HAVE NO LIABILITY WHATSOEVER 
+   IN RESPECT OF YOUR POSSESSION AND/OR USE OF THE FOSS.  If any other license agreement 
+   is applicable to third party software included in the Licensed Program, such license 
+   agreement will be appended to this License, and you agree to comply with same.
+
+8. EXPORT CONTROL: 
+   You agree that the Licensed Software provided pursuant to this License Agreement may be
+   subject to United States or other countries¡¯ export laws and regulations and agree that
+   any use or transfer of the Licensed Software must be authorized by the appropriate United
+   States or other government agency.  You agree that you shall not directly or indirectly
+   use, distribute, transfer, or transmit any portion or item of Licensed Software 
+   (even if incorporated into other products, software, and technical information), 
+   except in compliance with United States and other counties¡¯ export laws and regulations.
+
+9. ENTIRE AGREEMENT: 
+   This Agreement sets forth the entire agreement and understanding between the parties 
+   pertaining to the subject matter hereof and merges all prior written or oral discussions
+   between them. This Agreement shall be construed in accordance with and governed by the 
+   laws of the State of New York, United States of America, excluding the United Nations 
+   Convention on Contracts for the International Sale of Goods.
+
+
+   Copyright ? 2010, 2011 Alcatel-Lucent. All rights reserved. 
+
+ANNEX A
+
+The Free and Open Source Software (¡°FOSS¡±) products identified below are integrated 
+together with Alcatel-Lucent software to form the Licensed Software. Each of these FOSS 
+products was released under a license as indicated below.  Unless otherwise dictated by 
+a FOSS license (such as GPL, LGPL, and Affero GPL) that requires Alcatel-Lucent to grant 
+the same rights to the parties to whom we distribute the FOSS, your rights to use, copy, 
+and further distribute (if applicable) the FOSS are governed by the Alcatel-Lucent license
+set forth above. 
+
+For the avoidance of doubt, and without limiting any rights you may obtain independent of 
+Alcatel-Lucent, except as set forth in the Alcatel-Lucent license above:
+
+(i) no right is granted by Alcatel-Lucent to reproduce, modify and/or redistribute FOSS 
+    that was released under and governed by a license (such as MIT, original BSD, new BSD,
+	Apache, CDDL, CPL, EPL  and Mozilla) that DOES NOT require Alcatel-Lucent to grant the
+	same rights to the parties to whom we distribute the FOSS, and 
+
+(ii) no other licenses express or implied, are granted, with respect to Alcatel-Lucent 
+    intellectual property, including, without limitation, Alcatel-Lucent copyrights, 
+	patents, trade secrets, trademarks or logos.
+
+(iii) In the event you are permitted to and do in fact modify any FOSS, then notwithstanding
+ any other provisions to the contrary, Alcatel-Lucent will have no further liability or 
+ obligation to provide support, maintenance, warranty or indemnity with respect to the 
+ Alcatel-Lucent products with which the modified version of the FOSS interacts.
+ 
+-------------------------------------------------------------------------------------------
+FOSS Name  |FOSS Version|Name of Applicable License|Pointer to file containing License Text 
+--------------------------------------------------------------------------------------------
+
+libssh2	   |   1.2	    |     BSD 2.0	           | /Licenses/BSD_License_2.0.txt
+--------------------------------------------------------------------------------------------
+LibTomCrypt|   1.17	    |     Public Domain	       |
+--------------------------------------------------------------------------------------------
+Log4Qt -   |            |                          |
+Logging for|            |                          |
+C++/Qt:    |            |                          |
+Log4Qt     |   0.3      |Apache License Version 2.0| /Licenses/Apache_License_2.0.txt
+- Logging  |            |                          |
+for|       |            |                          |
+C++/Qt     |            |                          |
+---------------------------------------------------------------------------------------------
+PCRE	   |   7.9	    |    BSD 2.0	           | /Licenses/BSD_License_2.0.txt
+---------------------------------------------------------------------------------------------
+Qt	       |   4.8.1	|    LGPL 2.1	           | /Licenses/LGPL_License_2.1.txt
+---------------------------------------------------------------------------------------------
+Qt Solutions|           |                          |
+Property    |   2.5     |    BSD 2.0               |  /Licenses/BSD_License_2.0.txt
+Browser	    |	        |                          |
+---------------------------------------------------------------------------------------------
+Qt Solutions|
+Telnet	    |  2.1	    |   LGPL 2.1               |  /Licenses/LGPL_License_2.1.txt
+----------------------------------------------------------------------------------------------
+SNMP++	    |  3.2.24	|   SNMP++ License	       |  /Licenses/SNMP++_License.txt
+----------------------------------------------------------------------------------------------
+
+Acknowledgements and Notices:
+
+This product includes SNMP++ software developed by the Hewlett-Packard Company:
+(http://www.agentpp.com).
+
+This product includes Log4Qt software developed by the Apache Software Foundation:
+(http://sourceforge.net/projects/log4qt/).	
+
+
+This product includes Qt software developed by Nokia:
+(http://www.qtsoftware.com/).
