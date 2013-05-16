@@ -1,28 +1,27 @@
 # Overview #
-EasyTest is a general purpose **automation test tool** with cross platform capability. It was developed at Alcatel-Lucent and made **free** on Nov. 2, 2012.
+EasyTest is a general purpose **automation test tool** for feature or system testing. It was developed at Alcatel-Lucent and made **free** on Nov. 2, 2012 with "[easytest license](https://github.com/EasyTestTeam/EasyTest/blob/master/EasyTest_License.txt)“.
 
-It provides an easy approach for users to quickly develop, automate and maintain automation scripts. 
+It provides an easy-to-use IDE (Integrated Development Environment) for you to quickly develop, automate and maintain automation scripts. 
 
-EasyTest's Network Element (NE) based services are especially suitable for operators, service providers and network equipment manufacturers to test their carrier grade systems. 
+EasyTest’s Network Element based service concept is especially suitable for operators, network equipment or telecom manufacturers to test their devices or systems.
 
-As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP. It is a freeware under license "easytest license"
+As of now, EasyTest has been used in many technologies such as LTE, WCDMA, GSM, CDMA, NGN and IP.
 
 # Features #
-1. Support to test most Network Elements as long as they have Command Line Interface such as Windows **command shell**, **telnet**, **ssh**, **sftp**, **ftp**, **http**, **snmp**, **tcp socket**.
-2. Easy to start. With **Record and Replay** feature, you don't even need to write an single line of script to automate your test.
+1. Allow you to test applications, devices or systems accessed through Command Line Interfaces (**Telnet**, **SSH**, **SFtp**, **FTP**, **TCP socket**, etc), **Command Shell**, **HTTP**, **SNMP** and **XML-RPC**.
+2. Easy to use. With **Record and Replay** feature, you don't even need to write an single line of script to automate your test.
 3. With advanced **Response Mapping technology**, you can add check points by just clicking.
 4. Provides easy-to-read **reports** and **logs** in HTML/XML format.
 5. Provides a command line interface and XML based outputs for integration into existing **Continuous Integration** systems
-6. **Cross platform**. Supports Windows XP/Windows 7/Linux.(Only provide MS Windows package by now)
+6. **Cross platform**. Supports Windows XP/Windows 7/Linux.(Only provide Windows version for freeware for now)
 7. **Free**. Yes, it's free!
 
 # Download #
-
 You can download EasyTest at [here](http://sourceforge.net/projects/easytest/files/EasyTest-2.7.1Free.exe/download)
 
 # Introduction #
 - [EasyTest Introduction](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction.pdf/download)
-- [EasyTest简介](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction_ChineseVersion.pdf/download)
+- [EasyTest自动化测试工具简介](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction_ChineseVersion.pdf/download)
 
 # Tutorial #
 - EasyTest Quick Start Guide (yet to come...)
