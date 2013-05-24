@@ -23,9 +23,10 @@ You can download EasyTest at [here](http://sourceforge.net/projects/easytest/fil
 - [EasyTest Introduction](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction.pdf/download)
 - [EasyTest自动化测试工具简介](http://sourceforge.net/projects/easytest/files/EasyTest_Introduction_ChineseVersion.pdf/download)
 
-# Tutorial #
+# Documents #
 - [EasyTest Quick Start Guide](http://sourceforge.net/projects/easytest/files/EasyTest_Quick_Start_Guide.zip/download)
 - [EasyTest快速入门指南](http://sourceforge.net/projects/easytest/files/EasyTest_Quick_Start_Guide_ChineseVersion.zip/download)
+- [EasyTest Cheat Sheet](http://sourceforge.net/projects/easytest/files/EasyTestFreewareCheatSheet.bmp/download)
 
 # Support #
 Having trouble with EasyTest? You can
